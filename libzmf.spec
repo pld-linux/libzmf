@@ -5,12 +5,12 @@
 Summary:	A library for reading and converting Zoner Draw and Zebra file formats
 Summary(pl.UTF-8):	Biblioteka do odczytu i importu formatów plików Zoner Draw i Zebra
 Name:		libzmf
-Version:	0.0.1
-Release:	3
+Version:	0.0.2
+Release:	1
 License:	MPL v2.0
 Group:		Libraries
 Source0:	http://dev-www.libreoffice.org/src/libzmf/%{name}-%{version}.tar.xz
-# Source0-md5:	5a002c50af653b67b3c2aedd979a2972
+# Source0-md5:	e4b089f35a85a042ba4da3c143b1dc5a
 URL:		https://wiki.documentfoundation.org/DLP/Libraries/libzmf
 BuildRequires:	boost-devel
 BuildRequires:	cppunit-devel
